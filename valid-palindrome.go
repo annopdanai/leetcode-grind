@@ -1,4 +1,4 @@
-package main
+package leetcodeblind75
 
 import (
 	"regexp"
@@ -20,8 +20,4 @@ func isPalindrome(s string) bool {
 	}
 
 	return true
-}
-
-func main() {
-	print(isPalindrome("A man, a plan, a canal: Panama"))
 }
