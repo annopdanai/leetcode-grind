@@ -13,6 +13,5 @@ func twoSum(nums []int, target int) []int {
 		}
 	}
 
-	// if there is no pair of elements that add up to the target, return an empty array
 	return []int{}
 }
