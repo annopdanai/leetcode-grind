@@ -1,5 +1,6 @@
 ## Leetcode ~~Blind 75~~ Grind (by someone who almost failed a DSA course)
 Ah yes, Leetcode ~~Blind 75~~ grind from someone who almost failed a DSA course
+
 UPDATE: Now it's just a repo for me to grind leetcode but mainly focus on Blind 75 and NeetCode 150.
 
 ## Why this repo? 🤔
